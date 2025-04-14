@@ -17,4 +17,4 @@
     * [Conclusion](whitepaper/conclusion.md)
     * [References](whitepaper/references.md)
 
-* [Download Whitepaper PDF](whitepaper/whitepaper.pdf)
+* [Download Whitepaper PDF](whitepaper/download-whitepaper.md)
