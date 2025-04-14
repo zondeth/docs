@@ -16,3 +16,5 @@
     * [Future Plans](whitepaper/future-plans.md)
     * [Conclusion](whitepaper/conclusion.md)
     * [References](whitepaper/references.md)
+
+* [Download Whitepaper PDF](whitepaper/whitepaper.pdf)

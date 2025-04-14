@@ -25,3 +25,5 @@ Welcome to the **Zond-EVM Bridge Protocol** documentation! This project provides
 The protocol allows users to seamlessly **lock ZND** on the Zond chain and **mint wrapped ZND (wZND)** on the EVM side. Conversely, users can **burn wZND** on EVM and **unlock ZND** back on Zond.
 
 For more information, please refer to the [Whitepaper](whitepaper/abstract.md).
+
+[Download Whitepaper PDF](whitepaper/whitepaper.pdf)
