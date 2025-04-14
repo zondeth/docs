@@ -2,16 +2,17 @@
 
 * [Welcome](README.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Whitepaper](whitepaper/abstract.md)
+    * [Abstract](whitepaper/abstract.md)
+    * [Introduction](whitepaper/introduction.md)
+    * [Motivation](whitepaper/motivation.md)
+    * [Architecture Overview](whitepaper/architecture-overview.md)
+    * [System Components](whitepaper/system-components.md)
+    * [Security Model](whitepaper/security-model.md)
+    * [Token Economics](whitepaper/token-economics.md)
+    * [Use Cases](whitepaper/use-cases.md)
+    * [Roadmap](whitepaper/roadmap.md)
+    * [Developer Stack](whitepaper/developer-stack.md)
+    * [Future Plans](whitepaper/future-plans.md)
+    * [Conclusion](whitepaper/conclusion.md)
+    * [References](whitepaper/references.md)
