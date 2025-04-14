@@ -1,6 +1,6 @@
 # System Components
 
-### 4.1 Zond Smart Contracts
+### 1 Zond Smart Contracts
 
 - `lockZND(address evmRecipient, uint256 amount)`
   - Locks native ZND
@@ -9,7 +9,7 @@
   - Relayer unlocks ZND after verifying EVM-side burn
 - Compatible with Dilithium or XMSS-based address formats
 
-### 4.2 EVM Smart Contracts
+### 2 EVM Smart Contracts
 
 #### a) wZND Token (ERC-20)
 - Minted only when ZND is locked on Zond
@@ -27,7 +27,7 @@
 - `cancelOrder(orderId)`
 - Fully decentralized, no off-chain matching
 
-### 4.3 Relayer (Node.js)
+### 3 Relayer (Node.js)
 
 - Listens to Zond and EVM events
 - Submits proofs (Zond → EVM or vice versa)
