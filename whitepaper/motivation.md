@@ -1,10 +1,7 @@
 # Motivation
 
-There is a growing need for:
+[Previous bridge design](https://zondeth.gitbook.io/bridge) for ZND ⇄ EVM mints wrapped tokens that inherit the weakest chain’s security.
 
-- **Post-quantum integration** with popular EVM ecosystems
-- **Token utility** for ZND in liquidity, trading, and staking
-- **Trustless infrastructure** to avoid centralized bridges
-- **On-chain trading UX** without centralized price oracles
+HTLC‑based atomic swaps provide a bridge‑less alternative: no mint/burn, no custody, no relayer.
 
-The Zond-EVM Bridge addresses all of these. 
+Users demand a trust‑minimized path to acquire or exit ZND while avoiding centralized exchanges.
