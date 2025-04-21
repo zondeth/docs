@@ -5,7 +5,7 @@ function lock(bytes32 H, address recipient, uint256 expiry) payable;
 
 function claim(bytes memory S);          // requires SHA256(S) == H
 
-function refund();                       // callable after expiry
+function refund(bytes32 H);                       // callable after expiry
 
 event Locked(bytes32 indexed H, address indexed locker, uint256 amount);
 
