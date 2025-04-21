@@ -26,4 +26,4 @@ The protocol allows users to seamlessly **lock ZND** on the Zond chain and **min
 
 For more information, please refer to the [Whitepaper](whitepaper/abstract.md).
 
-[Download Whitepaper PDF](whitepaper/whitepaper.pdf)
+[Download Whitepaper PDF](https://github.com/zondethorg/docs/blob/bridge/whitepaper/whitepaper.pdf)
