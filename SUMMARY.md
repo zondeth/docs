@@ -16,4 +16,4 @@
     * [References](whitepaper/references.md)
     * [Conclusion](whitepaper/conclusion.md)
 
-* [Download Whitepaper PDF](https://github.com/zondeth/docs/blob/atomic-swap/whitepaper/whitepaper.pdf)
+* [Download Whitepaper PDF](whitepaper/download-whitepaper.md)

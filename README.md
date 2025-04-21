@@ -26,4 +26,4 @@ The protocol allows users to seamlessly **swap ZND** on the Zond chain with **ET
 
 For more information, please refer to the [Whitepaper](whitepaper/abstract.md).
 
-[Download Whitepaper PDF](whitepaper/whitepaper.pdf)
+[Download Whitepaper PDF](https://github.com/zondethorg/docs/blob/atomic-swap/whitepaper/whitepaper.pdf)
