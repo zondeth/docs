@@ -17,3 +17,4 @@
     * [Conclusion](whitepaper/conclusion.md)
 
 * [Download Whitepaper PDF](whitepaper/download-whitepaper.md)
+* [Social Links](social.md)
